@@ -1,11 +1,9 @@
 # dotLottie for Elementor
-A basic and fast made widget for elementor that supports the brand new .lottie extension 
+A new lottie widget for elementor that supports the brand new .lottie extension 
 
 ## About updates
-1. I haven't upload this widget to Wordpress database because Elementor dev team should be depploying a update to suporte .lottie extension
-soon enough. So this widget is temporary for sure. 
-2. That doens't mean i'll be updating the plugin as long Elementor don't release a .lottie suport. So, in order to check for updates; request a new one or contribute to the code, visit https://brasa-digital.com/dotlottie-elementor
+1. I haven't upload this widget to Wordpress database because Elementor dev team should be depploying a update to suport .lottie extension very soon. Meaning this is a temporary widget.
+2. That doens't mean i'll be updating the plugin as long Elementor don't release a .lottie suport. So, in order to check for updates; request a new feature or report a bug, visit the plugin page https://brasa-digital.com/apps/dotlottie-for-elementor/ or the github repository https://github.com/LucasMariniFalbo/dotlottie-for-ellementor
 
-## Reference Materials
-- [Creating an Extension for Elementor](https://developers.elementor.com/creating-an-extension-for-elementor/)
-- [Creating a New Widget](https://developers.elementor.com/creating-a-new-widget/)
+## How to use it.
+1. Simply download the plugin .zip file, go to your Wordpress website, Plugins > Add New > Upload file.
